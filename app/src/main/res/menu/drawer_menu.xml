@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_citas"
+            android:icon="@android:drawable/ic_menu_agenda"
+            android:title="Mis Citas" />
+
+        <item
+            android:id="@+id/nav_ubicacion"
+            android:icon="@android:drawable/ic_dialog_map"
+            android:title="Ubicación" />
+
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@android:drawable/ic_menu_preferences"
+            android:title="Ajustes de Tema" />
+    </group>
+
+    <item android:title="Cuenta">
+        <menu>
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@android:drawable/ic_lock_power_off"
+                android:title="Cerrar Sesión" />
+        </menu>
+    </item>
+
+</menu>

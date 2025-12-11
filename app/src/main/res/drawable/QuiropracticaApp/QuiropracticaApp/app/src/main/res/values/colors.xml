@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="texto_claro">#9E9E9E</color>
+    <color name="quiropractica_azul">#8CA9FF</color>
+
+    <color name="quiropractica_azul_oscuro">#5677d9</color>
+
+    <color name="quiropractica_naranja">#FFA239</color>
+    <color name="quiropractica_verde">#78C841</color>
+
+    <color name="fondo_blanco">#FFFFFF</color>
+    <color name="texto_oscuro">#212121</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="vino_bg">#3E0018</color>
+    <color name="azul_claro_bg">#039BE5</color>
+    <color name="verde_bg">#2E7D32</color>
+
+    <color name="maroon_primary">#801437</color>
+    <color name="maroon_dark">#5C0E27</color>
+    <color name="vino_primary">#801437</color>
+    <color name="gold_accent">#B4975A</color>
+    <color name="gold_light">#DCC89E</color>
+    <color name="wine_dark">#800020</color>
+    <color name="wine_btn">#800020</color>
+    <color name="text_hint">#AAAAAA</color>
+    <color name="text_dark">#212121</color>
+    <color name="text_light">#F5F5F5</color>
+    <color name="login_blue_primary">#0D47A1</color>
+    <color name="login_text_gray">#555555</color>
+    <color name="gray_light">#E0E0E0</color>
+    <color name="gray_bg">#F2F2F2</color>
+</resources>

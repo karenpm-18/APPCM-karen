@@ -1,0 +1,2 @@
+package com.miraflores.agenda.model
+data class Appointment(val id: Int = -1, val clientName: String, val phone: String, val age: String, val service: String, val date: String, val time: String, val notes: String, val status: String = "PENDIENTE")

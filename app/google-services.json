@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "262782119228",
+    "project_id": "centro-cm",
+    "storage_bucket": "centro-cm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262782119228:android:069c753713ee1287e68239",
+        "android_client_info": {
+          "package_name": "com.miraflores.agenda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIMerxS7Kozz-mj0wUDR3jT2DLTNh46ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
